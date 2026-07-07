@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+node_modules/
+dist/
+ml_models/*.joblib
+ml_models/*.index
+.DS_Store
